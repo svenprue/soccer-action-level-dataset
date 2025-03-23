@@ -7,7 +7,7 @@ Match and Tournament Data was scraped from _WhoScored.com_ while players, teams,
 This dataset comprises **27,229 matches** from season 2009/2010 until 2023/2024 from all top 5 European soccer leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1).
 Further, it includes person characteristics and contract data covering **14,265 players**, **678 managers** and **35,537 teams**
 ## Entity-Relationship-Diagram
-![ERD](ERD.png)
+<img alt="ERD" src="ERD.png"/>
 
 ## Table Details
 
