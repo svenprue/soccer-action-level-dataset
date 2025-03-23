@@ -54,8 +54,6 @@ This dataset contains:
 | status | INT | 6   | - | - |
 | halftime_score | VARCHAR | 3 : 0 | - | - |
 | fulltime_score | VARCHAR | 3 : 2 | - | - |
-| extratime_score | VARCHAR | 5:4 | - | - |
-| penalty_score | VARCHAR | 3:2 | - | - |
 | home_score | INT | 3   | - | - |
 | away_score | INT | 2   | - | - |
 | home_red_cards | INT | 0   | - | - |
