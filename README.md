@@ -8,7 +8,7 @@ Data was collected by scraping match and tournament information from _WhoScored.
 This dataset contains:
 - **27,229 matches** spanning from 2009/2010 to 2023/2024 seasons
 - **14,265 players** with all professional contracts and personal information
-- **678 managers** wwith all professional contracts and personal information
+- **678 managers** with all professional contracts and personal information
 - **35,537 teams** with general information
 
 ## Entity-Relationship-Diagram
