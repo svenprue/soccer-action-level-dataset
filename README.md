@@ -1,8 +1,8 @@
 # Large-Scale Soccer Action-Level Dataset
 
-This is a research database containing 22 tables with comprehensive soccer data including tournaments, matches, events, players, managers, and teams from the top 5 European leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1). The database captures detailed match events with timestamps and spatial coordinates, tracking on-field actions such as passes, shots, goals, substitutions, fouls, and cards.
+This research database contains 22 tables with comprehensive soccer data, including tournaments, matches, events, players, managers, and teams from the top 5 European leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1). The database captures detailed match events with timestamps and spatial coordinates, tracking on-field actions such as passes, shots, goals, substitutions, fouls, and cards.
 
-Data was collected by scraping match and tournament information from _WhoScored.com_ while players, teams, and managers data was scraped from _worldofootball.com_. Both datasets were then combined using a custom matching algorithm.
+Data was collected by scraping match and tournament information from _WhoScored.com_ while players', teams', and managers' data were scraped from _worldofootball.com_. Both datasets were then combined using a custom matching algorithm.
 
 ## Overview 
 This dataset contains:
@@ -381,4 +381,4 @@ This dataset contains:
 </details>
 
 ## Access
-This database is currently in the pre-release phase with a few pending issues to address before public release. Researchers interested in accessing the data already are welcome to contact me.
+This database is currently in the pre-release phase, with a few pending issues that must be addressed before public release. Researchers interested in accessing the data already are welcome to contact me.
