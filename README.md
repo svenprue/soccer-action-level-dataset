@@ -4,7 +4,7 @@ This is a research database containing 22 tables with comprehensive soccer data 
 
 Data was collected by scraping match and tournament information from _WhoScored.com_ while players, teams, and managers data was scraped from _worldofootball.com_. Both datasets were then combined using a custom matching algorithm.
 
-## Overview
+## Overview 
 This dataset contains:
 - **27,229 matches** spanning from 2009/2010 to 2023/2024 seasons
 - **14,265 players** with all professional contracts and personal information
