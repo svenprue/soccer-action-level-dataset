@@ -376,3 +376,6 @@ Further, it includes person characteristics and contract data covering **14,265 
 | name_value | VARCHAR | Pass | - | - |
 
 </details>
+
+## Access
+This database is currently in the pre-release phase with a few pending issues to address before public release. Researchers interested accessing the data are welcome to contact me.
