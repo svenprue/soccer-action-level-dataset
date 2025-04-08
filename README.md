@@ -381,4 +381,4 @@ This dataset contains:
 </details>
 
 ## Access
-This database is currently in the pre-release phase, with a few pending issues that must be addressed before public release. Researchers interested in accessing the data already are welcome to contact me.
+This database is currently in the pre-release phase, with a few pending issues that must be addressed before public release. 
